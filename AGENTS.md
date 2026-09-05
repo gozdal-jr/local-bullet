@@ -12,3 +12,5 @@
 ## Workstation cleanup record — 2026-09-05
 
 Local source is retained on GitHub only; no installed application bundle was found in the inspected Applications locations. Repository remains public.
+
+The ignored local SQLite database is user data, not source. It is preserved separately from the removed checkout pending the owner’s decision; it must not be uploaded to this public repository.
