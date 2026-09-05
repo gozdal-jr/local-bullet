@@ -15,6 +15,10 @@ Jeśli port 8000 jest zajęty, system sam znajdzie wolny port na którym postawi
 
 ## Maintenance status — 2026-09-05
 
-This project is retained on GitHub as a source archive (public repository). It is no longer used or installed on the owner's Mac; local checkouts, development builds and project-specific runtime files are being removed after the current source is verified on GitHub. This is a storage/maintenance decision, not a new tested application release.
+This project is retained on GitHub as a source archive (public repository). It is no longer used or installed on the owner's Mac; local checkouts and development builds are removed after the current source is verified on GitHub; runtime data is handled separately as recorded below. This is a storage/maintenance decision, not a new tested application release.
 
 To resume development, clone `gozdal-jr/local-bullet` into a temporary workspace. Build/install only when explicitly requested, push all intended source changes before removing the checkout, and keep generated binaries, credentials and user data out of Git. Repository visibility must remain public.
+
+## Workstation cleanup record — 2026-09-05
+
+Local source is retained on GitHub only; no installed application bundle was found in the inspected Applications locations. Repository remains public.
